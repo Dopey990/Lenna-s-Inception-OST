@@ -1,0 +1,207 @@
+{
+  "aliases": {
+    "credits": "dark_theme",
+    "church": "alt_dungeon_1"
+  },
+  "tracks": [
+    {
+      "id": "silence",
+      "name": "Silence",
+      "music": null,
+      "transitions": {
+      }
+    },
+    {
+      "id": "theme",
+      "name": "Theme",
+      "music": "/music/theme\\..*",
+      "transitions": {
+      }
+    },
+    {
+      "id": "dark_theme",
+      "name": "Dark Theme",
+      "music": "/music/dark_theme\\..*",
+      "transitions": {
+      }
+    },
+    {
+      "id": "town",
+      "name": "Town",
+      "music": "/music/town\\..*",
+      "transitions": {
+      }
+    },
+    {
+      "id": "merchant",
+      "name": "Merchant",
+      "music": "/music/merchant\\..*",
+      "loopPoint": 6.621,
+      "transitions": {
+      }
+    },
+    {
+      "id": "overworld_west",
+      "name": "Overworld (West)",
+      "music": "/music/overworld_west\\..*",
+      "loopPoint": 27.961,
+      "transitions": {
+      }
+    },
+    {
+      "id": "cave",
+      "name": "Cave",
+      "music": "/music/cave\\..*",
+      "loopPoint": 52.364,
+      "transitions": {
+      }
+    },
+    {
+      "id": "dungeon",
+      "name": "Dungeon",
+      "music": "/music/dungeon\\..*",
+      "transitions": {
+      }
+    },
+    {
+      "id": "jungle",
+      "name": "Forest Dungeon",
+      "music": "/music/jungle\\..*",
+      "transitions": {
+      }
+    },
+    {
+      "id": "item_get",
+      "name": "Item Get",
+      "loop": false,
+      "pausesOtherTrack": true,
+      "music": "/music/item_get\\..*",
+      "transitions": {
+      }
+    },
+    {
+      "id": "key_item_get",
+      "name": "Key Item Get",
+      "loop": false,
+      "pausesOtherTrack": true,
+      "music": "/music/key_item_get\\..*",
+      "transitions": {
+      }
+    },
+    {
+      "id": "boss",
+      "name": "Boss",
+      "music": "/music/boss\\..*",
+      "transitions": {
+      }
+    },
+    {
+      "id": "bank",
+      "name": "Bank",
+      "music": "/music/bank\\..*",
+      "transitions": {
+      }
+    },
+    {
+      "id": "chairman_theme",
+      "name": "Chairman Theme",
+      "music": "/music/chairman_theme\\..*",
+      "transitions": {
+      }
+    },
+    {
+      "id": "overworld_east",
+      "name": "Overworld (East)",
+      "music": "/music/overworld_east\\..*",
+      "loopPoint": 9.323,
+      "transitions": {
+      }
+    },
+    {
+      "id": "alt_dungeon_1",
+      "name": "Alt Dungeon 1",
+      "music": "/music/alt_dungeon_1\\..*",
+      "transitions": {
+      }
+    },
+    {
+      "id": "alt_dungeon_2",
+      "name": "Alt Dungeon 2",
+      "music": "/music/alt_dungeon_2\\..*",
+      "transitions": {
+      }
+    },
+    {
+      "id": "glitch_boss",
+      "name": "Glitched Boss",
+      "music": "/music/glitch_boss\\..*",
+      "transitions": {
+      }
+    },
+    {
+      "id": "laboratory",
+      "name": "Laboratory",
+      "music": "/music/laboratory\\..*",
+      "transitions": {
+      }
+    },
+    {
+      "id": "glitch",
+      "name": "Missinglasses",
+      "music": "/music/glitch\\..*",
+      "pausesOtherTrack": true,
+      "transitions": {
+      }
+    },
+    {
+      "id": "glitch_city",
+      "name": "Glitch City",
+      "music": "/music/glitch_city\\..*",
+      "transitions": {
+      }
+    },
+    {
+      "id": "palace",
+      "name": "Palace",
+      "music": "/music/palace\\..*",
+      "transitions": {
+      }
+    },
+    {
+      "id": "chairman_boss_battle",
+      "name": "Chairman Boss Battle",
+      "music": "/music/chairman_boss_battle\\..*",
+      "loopPoint": 25.412,
+      "transitions": {
+      }
+    },
+    {
+      "id": "delvin_battle",
+      "name": "Delvin Boss Battle",
+      "music": "/music/delvin_battle\\..*",
+      "transitions": {
+      }
+    },
+    {
+      "id": "game_over",
+      "name": "Game Over",
+      "music": "/music/game_over\\..*",
+      "transitions": {
+      }
+    },
+    {
+      "id": "8fridge",
+      "name": "8Fridge",
+      "music": "/music/8fridge\\..*",
+      "transitions": {
+      }
+    },
+    {
+      "id": "heartfelt",
+      "name": "Heartfelt",
+      "music": "/music/heartfelt\\..*",
+      "transitions": {
+      }
+    }
+  ]
+}

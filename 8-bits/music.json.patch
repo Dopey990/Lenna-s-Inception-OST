@@ -1,0 +1,12 @@
+[
+    {
+        "op": "test",
+        "path": "/tracks/5/id",
+        "value": "cave"
+    },
+    {
+        "op": "replace",
+        "path": "/tracks/5/loopPoint",
+        "value": 61.091
+    }
+]
